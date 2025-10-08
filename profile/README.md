@@ -83,6 +83,7 @@ SentralOps transforms infrastructure oversight into an **AI-assisted operational
 ---
 
 <p align="center">
-  <sub>Built with precision by SentralOps Technologies • Centralized AI-Driven IT & Security Operations<br>
+  <sub>Built with precision by SentralOps Technologies<br>
+  Centralized AI-Driven IT & Security Operations<br>
   Internal Repository – Confidential © 2025 SentralOps Technologies</sub>
 </p>
