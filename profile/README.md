@@ -66,39 +66,37 @@ SentralOps transforms infrastructure oversight into an **AI-assisted operational
 
 ---
 
-<h2>🌐 Connect With Us</h2>
+<h2 align="center">🌐 Connect With Us</h2>
 
-<p>
+<p align="center">
   <a href="https://www.sentralops.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-sentralops.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <a href="https://blog.sentralops.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-blog.sentralops.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog">
+    <img src="https://img.shields.io/badge/Blog-blog.sentralops.com-0A66C2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog">
   </a><br>
   <a href="https://discord.gg/sentralops" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-Engineering%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://www.linkedin.com/company/sentralops" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow%20Us-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Company%20Page-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-</div>
-
 ---
 
-<h2>📜 Licensing</h2>
+<h2 align="center">📜 Licensing</h2>
 
-<p>
+<p align="center">
   SentralOps is a <strong>commercial software platform</strong>.<br>
   Unauthorized redistribution or modification is prohibited.<br><br>
-  For licensing, enterprise onboarding, or strategic partnerships contact:<br>
-  📧 <strong><a href="mailto:inquiries@sentralops.io">inquiries@sentralops.com</a></strong>
+  For licensing, onboarding, or enterprise collaboration:<br>
+  📧 <strong><a href="mailto:inquiries@sentralops.com">inquiries@sentralops.com</a></strong>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Built with precision by SentralOps Technologies • Unifying IT &amp; Security Operations through AI-driven automation<br>
-  All rights reserved © 2025 SentralOps Technologies</sub>
+  <sub>Built with precision by SentralOps Technologies • Centralized AI-Driven IT & Security Operations<br>
+  Internal Repository – Confidential © 2025 SentralOps Technologies</sub>
 </p>
