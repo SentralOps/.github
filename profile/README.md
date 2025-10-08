@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Platform-.NET%208-blue?style=for-the-badge&logo=dotnet" alt=".NET 8">
 <img src="https://img.shields.io/badge/Frontend-React%20TypeScript-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React TypeScript">
-<img src="https://img.shields.io/badge/AI-Integrated%20Insights-8A2BE2?style=for-the-badge&logo=openai" alt="AI Integration">
+<img src="https://img.shields.io/badge/AI-Integrated%20Insights-8A2BE2?style=for-the-badge&logo=openai" alt="AI Integration"><br>
 <img src="https://img.shields.io/badge/License-Commercial-red?style=for-the-badge" alt="License">
 <img src="https://img.shields.io/badge/Status-Enterprise%20Ready-brightgreen?style=for-the-badge" alt="Status">
 
@@ -66,18 +66,35 @@ SentralOps transforms infrastructure oversight into an **AI-assisted operational
 
 ---
 
-<div align="center">
+<h2>🌐 Connect With Us</h2>
+
+<p>
+  <a href="https://www.sentralops.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-sentralops.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://blog.sentralops.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-sentralops.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog">
+  </a>
+  <a href="https://discord.gg/sentralops" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/company/sentralops" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow%20Us-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+</div>
+
+---
 
 <h2>📜 Licensing</h2>
 
 <p>
   SentralOps is a <strong>commercial software platform</strong>.<br>
   Unauthorized redistribution or modification is prohibited.<br><br>
-  For licensing, enterprise onboarding, or strategic partnerships —<br>
-  📧 <strong><a href="mailto:security@sentralops.io">security@sentralops.io</a></strong>
+  For licensing, enterprise onboarding, or strategic partnerships contact:<br>
+  📧 <strong><a href="mailto:security@sentralops.io">security@sentralops.com</a></strong>
 </p>
-
-</div>
 
 ---
 
