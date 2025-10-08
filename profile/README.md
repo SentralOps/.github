@@ -73,8 +73,8 @@ SentralOps transforms infrastructure oversight into an **AI-assisted operational
     <img src="https://img.shields.io/badge/Website-sentralops.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <a href="https://blog.sentralops.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-sentralops.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog">
-  </a>
+    <img src="https://img.shields.io/badge/Blog-blog.sentralops.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog">
+  </a><br>
   <a href="https://discord.gg/sentralops" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -93,12 +93,12 @@ SentralOps transforms infrastructure oversight into an **AI-assisted operational
   SentralOps is a <strong>commercial software platform</strong>.<br>
   Unauthorized redistribution or modification is prohibited.<br><br>
   For licensing, enterprise onboarding, or strategic partnerships contact:<br>
-  📧 <strong><a href="mailto:security@sentralops.io">security@sentralops.com</a></strong>
+  📧 <strong><a href="mailto:inquiries@sentralops.io">inquiries@sentralops.com</a></strong>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Built with precision by SentralOps Security Engineering • Unifying IT &amp; Security Operations through AI-driven automation<br>
+  <sub>Built with precision by SentralOps Technologies • Unifying IT &amp; Security Operations through AI-driven automation<br>
   All rights reserved © 2025 SentralOps Technologies</sub>
 </p>
