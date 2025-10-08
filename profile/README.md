@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SentralOps/Assets/refs/heads/main/logos/sentral-ops-logo-transparent.png" alt="SentralOps Logo" width="220">
+  <img src="https://raw.githubusercontent.com/SentralOps/Assets/refs/heads/main/logos/sentral-ops-logo-transparent.png?token=GHSAT0AAAAAADMVQ53D6BN4IKT6JAWEPDE62HGKZYA" alt="SentralOps Logo" width="220">
 </p>
 
 <h1 align="center">SentralOps Technologies</h1>
@@ -72,7 +72,6 @@ SentralOps transforms infrastructure oversight into an **AI-assisted operational
 
 <p>
   SentralOps is a <strong>commercial software platform</strong>.<br>
-  All rights reserved © 2025 SentralOps Technologies.<br>
   Unauthorized redistribution or modification is prohibited.<br><br>
   For licensing, enterprise onboarding, or strategic partnerships —<br>
   📧 <strong><a href="mailto:security@sentralops.io">security@sentralops.io</a></strong>
@@ -83,5 +82,6 @@ SentralOps transforms infrastructure oversight into an **AI-assisted operational
 ---
 
 <p align="center">
-  <sub>Built with precision by SentralOps Security Engineering • Unifying IT &amp; Security Operations through AI-driven automation</sub>
+  <sub>Built with precision by SentralOps Security Engineering • Unifying IT &amp; Security Operations through AI-driven automation<br>
+  All rights reserved © 2025 SentralOps Technologies</sub>
 </p>
