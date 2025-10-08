@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SentralOps/Assets/refs/heads/main/logos/sentral-ops-logo-transparent.png?token=GHSAT0AAAAAADMVQ53CLXRBGVWZSZ6VUZQY2HGLDGA" alt="SentralOps Logo" width="220">
+  <img src="https://github.com/SentralOps/sentralops-assets/blob/main/logos/sentral-ops-logo-transparent.png" alt="SentralOps Logo" width="220">
 </p>
 
 <h1 align="center">SentralOps Technologies</h1>
