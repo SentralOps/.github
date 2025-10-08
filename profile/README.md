@@ -52,20 +52,6 @@ SentralOps transforms infrastructure oversight into an **AI-assisted operational
 
 ---
 
-## 🧩 Technology Highlights
-
-| Domain | Technology |
-|--------|-------------|
-| **Backend** | .NET 8, ASP.NET Core |
-| **Frontend** | React 18, TypeScript |
-| **DWH** | PostgreSQL |
-| **Communication** | SignalR (real-time) |
-| **Intelligence** | AI-enhanced agents with anomaly detection |
-| **Authentication** | JWT, RBAC, Argon2ID |
-| **Platform Support** | Web & Windows/MacOS/UNIX Agents |
-
----
-
 <h2 align="center">🌐 Connect With Us</h2>
 
 <p align="center">
