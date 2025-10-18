@@ -6,9 +6,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Platform-.NET%208-blue?style=for-the-badge&logo=dotnet" alt=".NET 8">
-<img src="https://img.shields.io/badge/Frontend-React%20TypeScript-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React TypeScript">
-<img src="https://img.shields.io/badge/AI-Integrated%20Insights-8A2BE2?style=for-the-badge&logo=openai" alt="AI Integration"><br>
 <img src="https://img.shields.io/badge/License-Commercial-red?style=for-the-badge" alt="License">
 <img src="https://img.shields.io/badge/Status-Enterprise%20Ready-brightgreen?style=for-the-badge" alt="Status">
 
