@@ -58,10 +58,10 @@ SentralOps transforms infrastructure oversight into an **AI-assisted operational
   <a href="https://blog.sentralops.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-blog.sentralops.com-0A66C2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog">
   </a><br>
-  <a href="https://discord.gg/sentralops" target="_blank">
+  <a href="https://discord.gg/Qw9B42Qv3j" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Community%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://www.linkedin.com/company/sentralops" target="_blank">
+  <a href="https://www.linkedin.com/company/sentralops-technologies" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Company%20Page-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
