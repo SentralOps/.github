@@ -62,8 +62,18 @@ SentralOps transforms infrastructure oversight into an **AI-assisted operational
 
 ---
 
+<h2 align="center">📜 Licensing</h2>
+
+<p align="center">
+  SentralOps is a <strong>commercial software platform</strong>.<br>
+  Unauthorized redistribution or modification is prohibited.<br>
+</p>
+
+---
+
 <p align="center">
   <sub>Built with precision by SentralOps Technologies<br>
   Centralized AI-Driven IT & Security Operations<br>
-  © 2025 SentralOps Technologies</sub>
+  Confidential © 2025 SentralOps Technologies</sub>
 </p>
+
